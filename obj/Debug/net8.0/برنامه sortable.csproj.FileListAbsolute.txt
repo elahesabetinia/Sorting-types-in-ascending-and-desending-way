@@ -1,0 +1,18 @@
+D:\c# exersice\برنامه sortable\bin\Debug\net8.0\برنامه sortable.exe
+D:\c# exersice\برنامه sortable\bin\Debug\net8.0\برنامه sortable.deps.json
+D:\c# exersice\برنامه sortable\bin\Debug\net8.0\برنامه sortable.runtimeconfig.json
+D:\c# exersice\برنامه sortable\bin\Debug\net8.0\برنامه sortable.dll
+D:\c# exersice\برنامه sortable\bin\Debug\net8.0\برنامه sortable.pdb
+D:\c# exersice\برنامه sortable\bin\Debug\net8.0\ConsoleColours.dll
+D:\c# exersice\برنامه sortable\bin\Debug\net8.0\Figgle.dll
+D:\c# exersice\برنامه sortable\obj\Debug\net8.0\برنامه sortable.csproj.AssemblyReference.cache
+D:\c# exersice\برنامه sortable\obj\Debug\net8.0\برنامه sortable.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# exersice\برنامه sortable\obj\Debug\net8.0\برنامه sortable.AssemblyInfoInputs.cache
+D:\c# exersice\برنامه sortable\obj\Debug\net8.0\برنامه sortable.AssemblyInfo.cs
+D:\c# exersice\برنامه sortable\obj\Debug\net8.0\برنامه sortable.csproj.CoreCompileInputs.cache
+D:\c# exersice\برنامه sortable\obj\Debug\net8.0\______ s.2638ADC0.Up2Date
+D:\c# exersice\برنامه sortable\obj\Debug\net8.0\برنامه sortable.dll
+D:\c# exersice\برنامه sortable\obj\Debug\net8.0\refint\برنامه sortable.dll
+D:\c# exersice\برنامه sortable\obj\Debug\net8.0\برنامه sortable.pdb
+D:\c# exersice\برنامه sortable\obj\Debug\net8.0\برنامه sortable.genruntimeconfig.cache
+D:\c# exersice\برنامه sortable\obj\Debug\net8.0\ref\برنامه sortable.dll

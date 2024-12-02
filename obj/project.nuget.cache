@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "n1i/OHb09ps=",
+  "success": true,
+  "projectFilePath": "D:\\c# exersice\\برنامه sortable\\برنامه sortable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\3scribe.utilities.consolecolours\\1.0.2\\3scribe.utilities.consolecolours.1.0.2.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\figgle\\0.5.1\\figgle.0.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
